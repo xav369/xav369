@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Ricardo Xavier
 
-### Python Developer | Backend & Automation Specialist | AI specialist
+### Python Developer | Backend & Automation Specialist | AI specialist | Agno + AI | Langchain + AI | Docker
 
 I build scalable backend solutions with clean, maintainable code. Passionate about automation, REST APIs, and modern development practices.
 
