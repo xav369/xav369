@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Xavier Ferreira
+# Hey there! 👋 I'm Ricardo Xavier
 
-### Python Developer | Backend & Automation Specialist
+### Python Developer | Backend & Automation Specialist | AI specialist
 
 I build scalable backend solutions with clean, maintainable code. Passionate about automation, REST APIs, and modern development practices.
 
