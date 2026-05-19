@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ricardo Xavier
+# Ricardo Xavier
 
 ### Python Developer | Backend & Automation Specialist | AI specialist | Agno + AI | Langchain + AI | Docker
 
